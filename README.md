@@ -23,4 +23,4 @@ The provider uses CCP in order to fetch the secret\variable.
 
 Environment variables:
 Appliance URLs
-      CyberArk_CCP_URL for example: {{BaseURL}}/AIMWebService
+      CyberArk_CCP_URL for example: <BaseURL>/AIMWebService
